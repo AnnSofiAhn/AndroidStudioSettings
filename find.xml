@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'NHFCX'" />
-    <option name="defaultScopeName" value="Project 'NHFCX'" />
-    <option name="SEARCH_SCOPE" value="Project 'NHFCX'" />
+    <option name="customScope" value="Module 'Lakitu.app'" />
+    <option name="defaultScopeName" value="Module 'Lakitu.app'" />
+    <option name="SEARCH_SCOPE" value="Module 'Lakitu.app'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
