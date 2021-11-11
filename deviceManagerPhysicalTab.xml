@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="QV711DYP3F" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-11-11T18:25:23.626779Z" />
+        <name value="Sony XQ-AT51" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
