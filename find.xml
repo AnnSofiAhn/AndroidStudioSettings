@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Fantasy XC'" />
-    <option name="defaultScopeName" value="Project 'Fantasy XC'" />
-    <option name="SEARCH_SCOPE" value="Project 'Fantasy XC'" />
+    <option name="customScope" value="Project 'QR Code Scanner'" />
+    <option name="defaultScopeName" value="Project 'QR Code Scanner'" />
+    <option name="SEARCH_SCOPE" value="Project 'QR Code Scanner'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
