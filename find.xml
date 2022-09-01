@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'Fantasy XC'" />
+    <option name="defaultScopeName" value="Project 'Fantasy XC'" />
+    <option name="SEARCH_SCOPE" value="Project 'Fantasy XC'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
