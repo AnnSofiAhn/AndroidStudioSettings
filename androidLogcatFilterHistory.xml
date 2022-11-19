@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Gurka" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="Gurka" />
         <option value="package:app.fantasyengine.fantasyxc.debug" />
         <option value="package:mine " />
-        <option value="level:error " />
         <option value="package:mine Gurka" />
       </list>
     </option>
